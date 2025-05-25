@@ -41,9 +41,8 @@ p {
 }
 input {
 	border: none;
-	border-bottom: 1px solid grey;
-	width: 150px;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	border-bottom: 1px grey;
+	width: 150px; /* o un valor más amplio como 200px */
 }
 .postcard-footer {
 	text-align: center;
